@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Travail-Synthese-Eric-Sarah/static/css/main.85578365.css",
+    "main.js": "/Travail-Synthese-Eric-Sarah/static/js/main.acb09d34.js",
+    "static/js/787.cda612ba.chunk.js": "/Travail-Synthese-Eric-Sarah/static/js/787.cda612ba.chunk.js",
+    "index.html": "/Travail-Synthese-Eric-Sarah/index.html",
+    "main.85578365.css.map": "/Travail-Synthese-Eric-Sarah/static/css/main.85578365.css.map",
+    "main.acb09d34.js.map": "/Travail-Synthese-Eric-Sarah/static/js/main.acb09d34.js.map",
+    "787.cda612ba.chunk.js.map": "/Travail-Synthese-Eric-Sarah/static/js/787.cda612ba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85578365.css",
+    "static/js/main.acb09d34.js"
+  ]
+}
